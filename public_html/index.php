@@ -1,4 +1,8 @@
 <?php
+
+error_reporting(0);
+
+
 $debut = microtime(true); 
 
 define('WEBROOT',dirname(__FILE__)); 
